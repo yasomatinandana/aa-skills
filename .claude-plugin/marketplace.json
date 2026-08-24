@@ -1,0 +1,13 @@
+{
+  "name": "aa-skills",
+  "owner": {
+    "name": "yasomatinandana"
+  },
+  "plugins": [
+    {
+      "name": "aa-skills",
+      "source": "./",
+      "description": "Portable engineering workflows for Claude Code, Codex, and Hermes Agent."
+    }
+  ]
+}
