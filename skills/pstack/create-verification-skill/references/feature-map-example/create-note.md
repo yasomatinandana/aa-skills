@@ -19,7 +19,7 @@ Create note lets a user save a titled note from the browser or CLI, cancel an un
 
 Preconditions:
 
-- Notes is healthy at `http://127.0.0.1:4173`.
+- Notes is healthy at `http://localhost:<port>`.
 - No note is titled `Release checklist`.
 - `control-notes doctor` reports the expected URL and disposable data directory.
 

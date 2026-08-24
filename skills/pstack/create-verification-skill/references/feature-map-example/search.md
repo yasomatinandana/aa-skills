@@ -21,7 +21,7 @@ Search lets a user find notes by title or body text, inspect a matching note, an
 
 Preconditions:
 
-- Notes is healthy at `http://127.0.0.1:4173`.
+- Notes is healthy at `http://localhost:<port>`.
 - The disposable data directory contains `Quarterly plan` with body text `Draft budget`.
 - `control-notes doctor` reports the expected URL and data directory.
 
