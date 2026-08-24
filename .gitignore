@@ -1,0 +1,6 @@
+# Local harness state
+.hermes/
+.claude/
+.codex/
+.cursor/
+node_modules/
