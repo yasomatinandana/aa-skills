@@ -1,0 +1,3 @@
+interface:
+  display_name: "SDD"
+  short_description: "Execute a plan with one implementer subagent per task"

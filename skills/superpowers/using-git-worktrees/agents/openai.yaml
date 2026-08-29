@@ -1,0 +1,3 @@
+interface:
+  display_name: "Git Worktrees"
+  short_description: "Ensure an isolated workspace before feature work"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "TDD Loop"
+  short_description: "Enforced red-green-refactor discipline"

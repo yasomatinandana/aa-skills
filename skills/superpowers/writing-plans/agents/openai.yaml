@@ -1,0 +1,3 @@
+interface:
+  display_name: "Write Plan"
+  short_description: "Turn an approved design into an implementation plan"

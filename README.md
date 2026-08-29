@@ -2,7 +2,7 @@
 
 Portable engineering workflows for Claude Code, Codex, and Hermes Agent.
 
-This repository combines selected, adapted skill content from pstack and Matt Pocock's Skills for Real Engineers. The canonical source material lives under `skills/`. Harness-specific installation and behavior live under `adapters/`.
+This repository combines selected, adapted skill content from pstack, Matt Pocock's Skills for Real Engineers, and obra/superpowers. The canonical source material lives under `skills/`. Harness-specific installation and behavior live under `adapters/`.
 
 ## Sources and attribution
 
@@ -10,6 +10,7 @@ Read [`docs/UPSTREAM-ATTRIBUTION.md`](docs/UPSTREAM-ATTRIBUTION.md) before redis
 
 - pstack: Lauren Tan, from the `pstack/` directory of https://github.com/cursor/plugins
 - Matt Pocock's skills: https://github.com/mattpocock/skills
+- Superpowers: Jesse Vincent, https://github.com/obra/superpowers
 
 This project is an independent adaptation. It is not endorsed by the upstream authors, Cursor, Anthropic, OpenAI, or Nous Research.
 
@@ -17,6 +18,7 @@ This project is an independent adaptation. It is not endorsed by the upstream au
 
 - `skills/engineering/` and `skills/productivity/` contain the selected Matt Pocock skills.
 - `skills/pstack/` contains pstack principles and workflow profiles.
+- `skills/superpowers/` contains the selected obra/superpowers skills (TDD, debugging, planning, plan execution, review, and verification workflows).
 - `adapters/` contains harness-specific guidance.
 - `docs/` contains portability and provenance policy.
 - `upstream/` preserves source license files.

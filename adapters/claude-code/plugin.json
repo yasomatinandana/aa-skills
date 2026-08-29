@@ -1,6 +1,6 @@
 {
   "name": "aa-skills",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Portable engineering workflows for Claude Code, Codex, and Hermes Agent.",
   "author": {
     "name": "yasomatinandana"
@@ -77,6 +77,18 @@
     "../../skills/pstack/technical-writing",
     "../../skills/pstack/typescript-best-practices",
     "../../skills/pstack/unslop",
-    "../../skills/pstack/why"
+    "../../skills/pstack/why",
+    "../../skills/superpowers/brainstorming",
+    "../../skills/superpowers/dispatching-parallel-agents",
+    "../../skills/superpowers/executing-plans",
+    "../../skills/superpowers/finishing-a-development-branch",
+    "../../skills/superpowers/receiving-code-review",
+    "../../skills/superpowers/requesting-code-review",
+    "../../skills/superpowers/subagent-driven-development",
+    "../../skills/superpowers/systematic-debugging",
+    "../../skills/superpowers/test-driven-development",
+    "../../skills/superpowers/using-git-worktrees",
+    "../../skills/superpowers/verification-before-completion",
+    "../../skills/superpowers/writing-plans"
   ]
 }

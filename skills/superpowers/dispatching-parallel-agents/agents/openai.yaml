@@ -1,0 +1,3 @@
+interface:
+  display_name: "Parallel Agents"
+  short_description: "Fan out one subagent per independent problem domain"
