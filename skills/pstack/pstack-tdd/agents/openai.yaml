@@ -1,0 +1,4 @@
+interface:
+  display_name: Pstack TDD
+  short_description: Use only when the user explicitly asks for TDD, a failing test,
+    or a

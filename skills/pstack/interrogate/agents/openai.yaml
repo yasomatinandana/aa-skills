@@ -1,0 +1,3 @@
+interface:
+  display_name: Interrogate
+  short_description: Multiple LLM reviewers challenge changes from independent angles
